@@ -4,9 +4,21 @@ header,
 #intro {
     height: 100%;
 }
+#se{
+  height: 100%;
+  background-color: burlywood;
+  text-align: center;
+}
+#bg{
+  height: 100%;
+  text-align: right;
+}
 
 #intro {
-    background: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img%20%283%29.jpg")no-repeat center center fixed;
+    /* background: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.ssfiction.com%2Fwp-content%2Fuploads%2F2020%2F07%2F20200731_5f23d622163a9.jpg&refer=http%3A%2F%2Fwww.ssfiction.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1658889214&t=863a4a40b6dce583fb49af4e66693864")no-repeat center center fixed; */
+    /* background:            ("")no-repeat center center fixed; */
+    /* background-image: ; */
+    background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2Ff2deb48f8c5494eeb786040022f5e0fe99257e06&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1658901618&t=6dbcefcbdbd46928accc4c46ac0bedc3");
     -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
     -moz-background-size: cover;    /* 针对Firefox浏览器 */
     -o-background-size: cover;      /* 针对Operallq */
